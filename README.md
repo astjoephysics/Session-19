@@ -6,7 +6,7 @@ The guest instructors for the S19 were:
 Viviana Acquaviva [:octocat:](https://github.com/vacquaviva)  
 John Wu [:octocat:](https://github.com/jwuphysics)  
 Niharika Sravan [:octocat:](https://github.com/niharika-sravan)  
-Vicki Toy-Edens [:octocat:]  
+Vicki Toy-Edens [:octocat:](https://github.com/vtoyedens)
 
 Additional lectures were given by the DSFP leadership team:  
 Bryan Scott [:octocat:](https://github.com/bscot)  
@@ -65,14 +65,14 @@ Sunday, Sep 10, 2023
 
 Monday, Sep 11, 2023
 
- * 09:00 AM – 10:30 AM  o Lecture IV – Introduction to Supervised Machine Learning; V. Acquaviva
+ * 09:00 AM – 10:30 AM  o Lecture IV – [🎥](https://youtu.be/ZGoWHGnhfxI)Introduction to Supervised Machine Learning; V. Acquaviva
  * 10:30 AM – 11:00 AM  o  BREAK
  * 11:00 AM – 12:00 PM  o [Problem](./day2/SGClassificationToFill.ipynb) – Introduction to Supervised Machine Learning; V. Acquaviva
  * 12:00 PM - 01:30 PM o LUNCH 
- * 01:30 PM – 02:30 PM  o Lecture V – Tree & Ensemble Methods; V. Acquaviva
+ * 01:30 PM – 02:30 PM  o [🎥](https://youtu.be/kcWc1SO7VwU)Lecture V – Tree & Ensemble Methods; V. Acquaviva
  * 02:30 PM – 03:30 PM  o [Problem](./day2/Baggingand20Boosting.ipynb): Tree & Ensemble Methods; V. Acquaviva
  * 03:30 PM - 04:00 PM o BREAK 
- * 04:00 PM - 05:30 PM o Lecture VI – [Building Perceptrons for Classification](day2/BuildingPerceptronsForClassification.ipynb); A. Miller 
+ * 04:00 PM - 05:30 PM o [🎥](https://youtu.be/Rd9rxmkZvO0)Lecture VI – [Building Perceptrons for Classification](day2/BuildingPerceptronsForClassification.ipynb); A. Miller 
  * 06:00 PM - ??:?? PM o Group dinner 
  
 ## Day 3 — Convolutional Neural Networks 
@@ -83,7 +83,7 @@ Monday, Sep 11, 2023
 
 Tuesday, Sep 12, 2023
 
-* 09:00 AM - 10:00 AM o Lecture VII – [Convolutional Neural Networks](./day3/ConvolutionalNeuralNetworks.ipynb), J. Wu 
+* 09:00 AM - 10:00 AM o Lecture VII [:movie_camera:](https://www.youtube.com/watch?v=E_GZ4jTqAIU) – [Convolutional Neural Networks](./day3/ConvolutionalNeuralNetworks.ipynb), J. Wu 
 * 10:00 AM - 10:30 AM o BREAK
 * 10:30 AM - 12:00 PM o Problem: Convolutional Neural Networks J. Wu
 * 12:00 PM - ??:?? PM o BREAK
@@ -96,11 +96,11 @@ Tuesday, Sep 12, 2023
 
 Wednesday, Sep 13, 2023 
 
-* 09:00 AM – 10:00 AM o Lecture VIII – Graph Neural Networks; J. Wu
+* 09:00 AM – 10:00 AM o Lecture VIII [:movie_camera:](https://www.youtube.com/watch?v=rfqGGfnWMb0) – [Graph Neural Networks](./day4/GraphNeuralNetworks.ipynb); J. Wu
 * 10:00 AM – 10:30 AM o BREAK 
 * 10:30 AM – 12:00 PM o Problem: Graph Neural Networks; J. Wu
 * 12:00 PM – 01:30 PM o LUNCH 
-* 01:30 PM – 02:30 PM o Lecture IX – The Upper Confidence Bound; A. Sravan
+* 01:30 PM – 02:30 PM o Lecture IX – [🎥](https://youtu.be/x9J_wJHcAzc)[Introduction to Reinforcement Learning and The Upper Confidence Bound](https://drexel0-my.sharepoint.com/:o:/g/personal/ns3527_drexel_edu/Ek10V_6sSW9BmzSRKqR6YR0BADDdEjAZI0mpj4IuOADAGQ?e=RZ902Z); A. Sravan
 * 02:30 PM – 04:00 PM o Problem: The Upper Confidence Bound; A. Sravan
 * 04:00 PM – 04:30 PM o BREAK 
 * 04:30 PM – 05:00 PM o Hack Pitch Session  
@@ -113,10 +113,10 @@ Wednesday, Sep 13, 2023
 
 Thursday, Sep 14, 2023
 
-* 9:00 AM - 10:00  AM o Lecture X – Thompson Sampling; A. Sravan
-* 09:45 AM – 10:45 AM o Problem: Thompson Sampling; A. Sravan
+* 9:00 AM - 10:00  AM o Lecture X – [🎥](https://youtu.be/Dilg2HtErSw)[Thompson Sampling](https://drexel0-my.sharepoint.com/:o:/g/personal/ns3527_drexel_edu/Ek10V_6sSW9BmzSRKqR6YR0BADDdEjAZI0mpj4IuOADAGQ?e=RZ902Z); A. Sravan
+* 10:00 AM – 10:45 AM o Problem: Thompson Sampling; A. Sravan
 * 10:45 AM – 11:00 AM o BREAK 
-* 11:00 AM – 12:00 PM o Lecture XI – Professional Development: CV Workshop; V. Toy-Edens
+* 11:00 AM – 12:00 PM o Lecture XI – [Professional Development](./day5/LSST_DSFP_prof_development_Toy-Edens.pdf): CV Workshop; V. Toy-Edens
 * 12:00 PM – 01:00 PM o LUNCH 
 * 01:00 PM – 04:30 PM o Hack Session;  
 * 04:30 PM – 05:00 PM o Hack tag–up & Meeting wrap up 
